@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" serverName="ailab@dhailab.asuscomm.com:2048">
+    <serverData>
+      <paths name="ailab@dhailab.asuscomm.com:2048">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/data1/hqp_w/NLP/NER" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>
